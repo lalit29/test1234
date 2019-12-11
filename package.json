@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chromedriver": "^77.0.0",
+    "chromedriver": "^78.0.0",
     "handlebars": "^4.4.3",
     "nightwatch": "^1.2.4",
     "nightwatch-html-reporter": "^2.0.6",
